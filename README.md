@@ -41,4 +41,4 @@ Para ejecutar el análisis, abre el notebook `Analisis_de_ventas.ipynb` en Googl
 Ángel Gabriel Sánchez Leandro
 
 
-[MIT]
+
