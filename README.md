@@ -38,7 +38,7 @@ Para ejecutar el análisis, abre el notebook `Analisis_de_ventas.ipynb` en Googl
 
 ## Autor
 
-[Tu Nombre]
+[Ángel Gabriel Sánchez Leandro]
 
 ## Licencia
 
