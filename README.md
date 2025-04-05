@@ -38,8 +38,7 @@ Para ejecutar el análisis, abre el notebook `Analisis_de_ventas.ipynb` en Googl
 
 ## Autor
 
-[Ángel Gabriel Sánchez Leandro]
+Ángel Gabriel Sánchez Leandro
 
-## Licencia
 
 [MIT]
